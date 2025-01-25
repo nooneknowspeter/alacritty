@@ -1,7 +1,7 @@
 alacritty config / setup
 
-![screenshot]()
-![screenshot]()
+![screenshot](https://github.com/nooneknowspeter/alacritty/blob/main/public/Screenshot%202025-01-25%20042147.png)
+![screenshot](https://github.com/nooneknowspeter/alacritty/blob/main/public/Screenshot%202025-01-25%20042634.png)
 
 ```sh
 rm -rf ~/.config/alacritty
