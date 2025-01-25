@@ -1,3 +1,4 @@
 [bell]
 animation = "Ease"
-duration = 600
+duration = 50
+color = "#000000"
