@@ -1,0 +1,13 @@
+general.import = [
+  # configs
+  "./configs/bell.toml",
+  "./configs/colors.toml",
+  "./configs/cursor.toml",
+  "./configs/env.toml",
+  "./configs/fonts.toml",
+  "./configs/mouse.toml",
+  "./configs/selection.toml",
+  "./configs/window.toml",
+  # themes
+  "./themes/themes/monokai_charcoal.toml",
+]
