@@ -5,6 +5,7 @@ general.import = [
   "./configs/cursor.toml",
   "./configs/env.toml",
   "./configs/fonts.toml",
+  "./configs/keyboard.toml",
   "./configs/mouse.toml",
   "./configs/selection.toml",
   "./configs/window.toml",
