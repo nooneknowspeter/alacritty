@@ -1,3 +1,7 @@
+import = [
+  "C:\\Users\\jerel\\AppData\\Roaming\\npm\\node_modules\\alacritty-themes\\themes\\Afterglow.toml"
+]
+
 [general]
 import = [
   "./configs/bell.toml",
@@ -9,5 +13,5 @@ import = [
   "./configs/mouse.toml",
   "./configs/selection.toml",
   "./configs/window.toml",
-  "./themes/themes/hyper.toml",
+  "./themes/themes/monokai_charcoal.toml"
 ]
