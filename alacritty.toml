@@ -10,5 +10,5 @@ general.import = [
   "./configs/selection.toml",
   "./configs/window.toml",
   # themes
-  "./themes/themes/monokai_charcoal.toml",
+  "./themes/Black Metal (Immortal).toml",
 ]
